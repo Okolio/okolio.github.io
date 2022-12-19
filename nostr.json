@@ -1,0 +1,8 @@
+{
+  "names": {
+    "NetworkMachines": "7d330e35ecadd4be120b5b65b5ef812cf95b4374862c215452cf902a8bc141fd",
+  },
+  "relays": {
+    "b2d670de53b27691c0c3400225b65c35a26d06093bcc41f48ffc71e0907f9d4a": [ "wss://nostr.oxtr.dev", "wss://relay.damus.io", "wss://nostr.zebedee.cloud" ]
+  }
+}
